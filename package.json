@@ -22,6 +22,7 @@
     "@angular/platform-browser": "~12.1.4",
     "@angular/platform-browser-dynamic": "~12.1.4",
     "@angular/router": "~12.1.4",
+    "@sentry/browser": "^6.10.0",
     "core-js": "^2.5.4",
     "firebase": "^8.8.1",
     "flexboxgrid": "^6.3.1",
